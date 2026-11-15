@@ -1,0 +1,6 @@
+yaml_version: 1
+stage: FP_ADDSUB
+modules:
+  FP_ADDSUB:
+    source_files:
+      - FP_ADDSUB/rtl.sv
