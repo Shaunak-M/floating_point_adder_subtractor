@@ -1,6 +1,6 @@
 yaml_version: 1
-stage: FP_ADDSUB
+stage: fp_addsub
 modules:
-  FP_ADDSUB:
+  fp_addsub:
     source_files:
       - FP_ADDSUB/rtl.sv
